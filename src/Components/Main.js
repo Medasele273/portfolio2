@@ -10,7 +10,7 @@ const Main = () => (
 
 
     <Switch>
-        <Route exact path="/">
+        <Route exact path="/home">
             <LandingPage />
         </Route>
         <Route path="/home">
